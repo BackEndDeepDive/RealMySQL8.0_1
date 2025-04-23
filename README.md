@@ -6,7 +6,7 @@ Deep Dive into Real My SQL 8.0(1)
 --- 
 </div>
 
-### Contents
+## Contents
 #### 1주차(2025.04.21 ~ 2025.04.27)
 - **범위** 
     - 1.1 MySQL 소개 ~ 2.4.6 'my.conf' 파일 
