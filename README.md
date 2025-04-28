@@ -14,7 +14,7 @@ Deep Dive into Real My SQL 8.0(1)
 - **세미나**
     - 장우:[~에 대하여](https://github.com/BackEndDeepDive/RealMySQL8.0_1/issues)
     - 민우: 
-    - 재현: 
+    - 재현:[MySQL 서버 업그레이드에 대하여](https://github.com/KimJ4ehyun/TIL-2025/blob/main/RealMySQL/02.설치와_설정.md#23-mysql-서버-업그레이드) 
     - 현재: 
 
 ---
