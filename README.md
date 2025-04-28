@@ -12,9 +12,9 @@ Deep Dive into Real My SQL 8.0(1)
     - 1.1 MySQL 소개 ~ 2.4.6 'my.conf' 파일 
 
 - **세미나**
-    - 장우:[~에 대하여](https://github.com/BackEndDeepDive/RealMySQL8.0_1/issues)
+    - 장우:[MySQL 8.0에서 my.cnf(default)는 어떻게 작성되었을까?](https://github.com/BackEndDeepDive/RealMySQL8.0_1/blob/main/ChoiJangWoo/Ch%201/README.md)
     - 민우: 
-    - 현재: [InnoDB에 대한 고찰](https://github.com/Kguswo/RealMySQL8.0_1/blob/kimhyeonjae/Real%20MySQL%208.0/1%EC%A3%BC%EC%B0%A8.%20InnoDB%EC%97%90%20%EB%8C%80%ED%95%9C%20%EA%B3%A0%EC%B0%B0.md)
+    - 현재:[InnoDB에 대한 고찰](https://github.com/BackEndDeepDive/RealMySQL8.0_1/blob/main/kimhyeonjae/1%EC%A3%BC%EC%B0%A8.%20InnoDB%EC%97%90%20%EB%8C%80%ED%95%9C%20%EA%B3%A0%EC%B0%B0.md)
     - 재현:[MySQL 서버 업그레이드에 대하여](https://github.com/KimJ4ehyun/TIL-2025/blob/main/RealMySQL/02.설치와_설정.md#23-mysql-서버-업그레이드) 
 
 ---
