@@ -23,8 +23,8 @@ Deep Dive into Real My SQL 8.0(1)
 
 - **세미나**
     - 장우: [MVCC & Non-locking Consistent Read](https://github.com/BackEndDeepDive/RealMySQL8.0_1/blob/choijangwoo/ChoiJangWoo/Ch%202/README.md)
-    - 민우: 
-    - 현재: [트랜잭션과 격리 수준]()
+    - 민우: https://github.com/BackEndDeepDive/RealMySQL8.0_1/blob/main/YukMinWoo/week-2/MVCC.md
+    - 현재: [트랜잭션과 격리 수준](https://github.com/BackEndDeepDive/RealMySQL8.0_1/blob/main/kimhyeonjae/2%EC%A3%BC%EC%B0%A8.%20%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%EA%B3%BC%20%EA%B2%A9%EB%A6%AC%20%EC%88%98%EC%A4%80.md)
     - 재현:[MySQL 전체 워크플로우](https://github.com/BackEndDeepDive/RealMySQL8.0_1/blob/main/KimJaeHyun/2주차.MySQL_전체_워크플로우.md) 
 
 ## Conventions
