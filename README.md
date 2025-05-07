@@ -23,7 +23,7 @@ Deep Dive into Real My SQL 8.0(1)
 - **세미나**
     - 장우: [MVCC & Non-locking Consistent Read](https://github.com/BackEndDeepDive/RealMySQL8.0_1/blob/choijangwoo/ChoiJangWoo/Ch%202/README.md)
     - 민우: 
-    - 현재: 
+    - 현재: [트랜잭션과 격리 수준]()
     - 재현:
 ---
 ## Conventions
