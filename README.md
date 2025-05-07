@@ -17,6 +17,15 @@ Deep Dive into Real My SQL 8.0(1)
     - 현재:[InnoDB에 대한 고찰](https://github.com/BackEndDeepDive/RealMySQL8.0_1/blob/main/kimhyeonjae/1%EC%A3%BC%EC%B0%A8.%20InnoDB%EC%97%90%20%EB%8C%80%ED%95%9C%20%EA%B3%A0%EC%B0%B0.md)
     - 재현:[MySQL 서버 업그레이드](https://github.com/BackEndDeepDive/RealMySQL8.0_1/blob/main/KimJaeHyun/1주차.MySQL_서버_업그레이드.md) 
 
+#### 2주차(2025.04.28 ~ 2025.05.06)
+- **범위** 
+    - 4.1 MySQL 엔진 아키텍처 ~ 4.4 MySQL 로그 파일
+
+- **세미나**
+    - 장우:
+    - 민우: 
+    - 현재: 
+    - 재현:
 ---
 ## Conventions
 1. 본인이 정리한 부분은 본인의 이름 브랜치에 기록한다.
