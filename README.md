@@ -25,7 +25,7 @@ Deep Dive into Real My SQL 8.0(1)
     - 장우: [MVCC & Non-locking Consistent Read](https://github.com/BackEndDeepDive/RealMySQL8.0_1/blob/choijangwoo/ChoiJangWoo/Ch%202/README.md)
     - 민우: 
     - 현재: 
-    - 재현:
+    - 재현:[MySQL 전체 워크플로우](https://github.com/BackEndDeepDive/RealMySQL8.0_1/blob/main/KimJaeHyun/2주차.MySQL_전체_워크플로우.md) 
 ---
 ## Conventions
 1. 본인이 정리한 부분은 본인의 이름 브랜치에 기록한다.
