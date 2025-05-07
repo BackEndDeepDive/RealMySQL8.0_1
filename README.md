@@ -22,7 +22,7 @@ Deep Dive into Real My SQL 8.0(1)
     - 4.1 MySQL 엔진 아키텍처 ~ 4.4 MySQL 로그 파일
 
 - **세미나**
-    - 장우:
+    - 장우: [MVCC & Non-locking Consistent Read](https://github.com/BackEndDeepDive/RealMySQL8.0_1/blob/choijangwoo/ChoiJangWoo/Ch%202/README.md)
     - 민우: 
     - 현재: 
     - 재현:
