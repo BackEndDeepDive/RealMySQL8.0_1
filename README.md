@@ -32,7 +32,7 @@ Deep Dive into Real My SQL 8.0(1)
     - 3 사용자 및 권한, 5 트랜잭션과 잠금, 6 데이터 압축
 
 - **세미나**
-    - 장우: 
+    - 장우: [Lost updates 와 Lock 근데 CAS를 곁들인](https://github.com/BackEndDeepDive/RealMySQL8.0_1/tree/choijangwoo/ChoiJangWoo/Ch%203)
     - 민우: 
     - 현재: 
     - 재현:
