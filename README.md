@@ -33,10 +33,10 @@ Deep Dive into Real My SQL 8.0(1)
 
 - **세미나**
     - 장우: [Lost updates 와 Lock 근데 CAS를 곁들인](https://github.com/BackEndDeepDive/RealMySQL8.0_1/tree/choijangwoo/ChoiJangWoo/Ch%203)
-    - 민우: 
-    - 현재: [InnoDB 인덱스 잠금 테스트](https://github.com/BackEndDeepDive/RealMySQL8.0_1/blob/main/kimhyeonjae/3주차. InnoDB 인덱스 잠금 테스트.md)
+    - 민우: [Lock](https://github.com/BackEndDeepDive/RealMySQL8.0_1/blob/main/YukMinWoo/week-3/Lock.md)
+    - 현재: [MySQL InnoDB의 인덱스 잠금 메커니즘 테스트 및 분석](https://github.com/BackEndDeepDive/RealMySQL8.0_1/blob/main/kimhyeonjae/3%EC%A3%BC%EC%B0%A8.%20InnoDB%20%EC%9D%B8%EB%8D%B1%EC%8A%A4%20%EC%9E%A0%EA%B8%88%20%ED%85%8C%EC%8A%A4%ED%8A%B8.md)
     - 재현: [낙관적 락과 비관적 락](https://github.com/BackEndDeepDive/RealMySQL8.0_1/blob/main/KimJaeHyun/3주차.낙관적_락과_비관적_락.md) 
-    
+
 ## Conventions
 1. 본인이 정리한 부분은 본인의 이름 브랜치에 기록한다.
     - 브랜치는 영어(소문자)로 설정
