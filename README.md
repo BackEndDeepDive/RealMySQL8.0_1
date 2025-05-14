@@ -34,7 +34,7 @@ Deep Dive into Real My SQL 8.0(1)
 - **세미나**
     - 장우: [Lost updates 와 Lock 근데 CAS를 곁들인](https://github.com/BackEndDeepDive/RealMySQL8.0_1/tree/choijangwoo/ChoiJangWoo/Ch%203)
     - 민우: 
-    - 현재: 
+    - 현재: [InnoDB 인덱스 잠금 테스트](https://github.com/BackEndDeepDive/RealMySQL8.0_1/blob/main/kimhyeonjae/3주차. InnoDB 인덱스 잠금 테스트.md)
     - 재현: [낙관적 락과 비관적 락](https://github.com/BackEndDeepDive/RealMySQL8.0_1/blob/main/KimJaeHyun/3주차.낙관적_락과_비관적_락.md) 
     
 ## Conventions
