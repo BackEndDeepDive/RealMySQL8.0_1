@@ -43,9 +43,9 @@ Deep Dive into Real My SQL 8.0(1)
 
 - **세미나**
     - 장우: 
-    - 민우: 
-    - 현재: 현재: [MySQL vs Elasticsearch 검색 비교](https://github.com/BackEndDeepDive/RealMySQL8.0_1/blob/main/kimhyeonjae/4주차._MySQL_vs_Elasticsearch_검색_비교.md)
-    - 재현: 
+    - 민우:
+    - 현재: [MySQL vs Elasticsearch 검색 비교](https://github.com/BackEndDeepDive/RealMySQL8.0_1/blob/main/kimhyeonjae/4주차._MySQL_vs_Elasticsearch_검색_비교.md) 
+    - 재현: [쿼리 실행 계획](https://github.com/BackEndDeepDive/RealMySQL8.0_1/blob/main/KimJaeHyun/4주차.쿼리_실행_계획.md) 
 
 ## Conventions
 1. 본인이 정리한 부분은 본인의 이름 브랜치에 기록한다.
