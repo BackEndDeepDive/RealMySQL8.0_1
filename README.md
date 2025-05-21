@@ -45,7 +45,7 @@ Deep Dive into Real My SQL 8.0(1)
     - 장우: 
     - 민우: 
     - 현재: 
-    - 재현: 
+    - 재현: [쿼리 실행 계획](https://github.com/BackEndDeepDive/RealMySQL8.0_1/blob/main/KimJaeHyun/4주차.쿼리_실행_계획.md) 
 
 ## Conventions
 1. 본인이 정리한 부분은 본인의 이름 브랜치에 기록한다.
