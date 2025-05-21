@@ -37,6 +37,16 @@ Deep Dive into Real My SQL 8.0(1)
     - 현재: [MySQL InnoDB의 인덱스 잠금 메커니즘 테스트 및 분석](https://github.com/BackEndDeepDive/RealMySQL8.0_1/blob/main/kimhyeonjae/3%EC%A3%BC%EC%B0%A8.%20InnoDB%20%EC%9D%B8%EB%8D%B1%EC%8A%A4%20%EC%9E%A0%EA%B8%88%20%ED%85%8C%EC%8A%A4%ED%8A%B8.md)
     - 재현: [낙관적 락과 비관적 락](https://github.com/BackEndDeepDive/RealMySQL8.0_1/blob/main/KimJaeHyun/3주차.낙관적_락과_비관적_락.md) 
 
+#### 3주차(2025.05.14 ~ 2025.05.21)
+- **범위** 
+    - 7 데이터 암호화, 8 인덱스
+
+- **세미나**
+    - 장우: 
+    - 민우: 
+    - 현재: 
+    - 재현: 
+
 ## Conventions
 1. 본인이 정리한 부분은 본인의 이름 브랜치에 기록한다.
     - 브랜치는 영어(소문자)로 설정
