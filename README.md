@@ -43,8 +43,8 @@ Deep Dive into Real My SQL 8.0(1)
 
 - **세미나**
     - 장우: [은총알은 없다](https://github.com/BackEndDeepDive/RealMySQL8.0_1/tree/choijangwoo/ChoiJangWoo/Ch%204)
-    - 민우: 
-    - 현재: [MySQL vs Elasticsearch 검색 비교](https://github.com/BackEndDeepDive/RealMySQL8.0_1/blob/main/kimhyeonjae/4주차._MySQL_vs_Elasticsearch_검색_비교.md) 
+    - 민우: [Index](https://github.com/BackEndDeepDive/RealMySQL8.0_1/blob/main/YukMinWoo/week-4/Clustered%20Index%20%26%20Non-Clustered%20Index.md)
+    - 현재: [MySQL vs Elasticsearch 검색 비교](https://github.com/BackEndDeepDive/RealMySQL8.0_1/blob/main/kimhyeonjae/4%EC%A3%BC%EC%B0%A8.%20MySQL%20vs%20Elasticsearch%20%EA%B2%80%EC%83%89%20%EB%B9%84%EA%B5%90.md) 
     - 재현: [쿼리 실행 계획](https://github.com/BackEndDeepDive/RealMySQL8.0_1/blob/main/KimJaeHyun/4주차.쿼리_실행_계획.md) 
 
 ## Conventions
