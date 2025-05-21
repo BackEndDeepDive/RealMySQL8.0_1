@@ -42,8 +42,8 @@ Deep Dive into Real My SQL 8.0(1)
     - 7 데이터 암호화, 8 인덱스
 
 - **세미나**
-    - 장우: 
-    - 민우:
+    - 장우: [은총알은 없다](https://github.com/BackEndDeepDive/RealMySQL8.0_1/tree/choijangwoo/ChoiJangWoo/Ch%204)
+    - 민우: 
     - 현재: [MySQL vs Elasticsearch 검색 비교](https://github.com/BackEndDeepDive/RealMySQL8.0_1/blob/main/kimhyeonjae/4주차._MySQL_vs_Elasticsearch_검색_비교.md) 
     - 재현: [쿼리 실행 계획](https://github.com/BackEndDeepDive/RealMySQL8.0_1/blob/main/KimJaeHyun/4주차.쿼리_실행_계획.md) 
 
