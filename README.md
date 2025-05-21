@@ -42,7 +42,7 @@ Deep Dive into Real My SQL 8.0(1)
     - 7 데이터 암호화, 8 인덱스
 
 - **세미나**
-    - 장우: 
+    - 장우: [은총알은 없다](https://github.com/BackEndDeepDive/RealMySQL8.0_1/tree/choijangwoo/ChoiJangWoo/Ch%204)
     - 민우: 
     - 현재: 
     - 재현: 
