@@ -47,6 +47,16 @@ Deep Dive into Real My SQL 8.0(1)
     - 현재: [MySQL vs Elasticsearch 검색 비교](https://github.com/BackEndDeepDive/RealMySQL8.0_1/blob/main/kimhyeonjae/4%EC%A3%BC%EC%B0%A8.%20MySQL%20vs%20Elasticsearch%20%EA%B2%80%EC%83%89%20%EB%B9%84%EA%B5%90.md) 
     - 재현: [쿼리 실행 계획](https://github.com/BackEndDeepDive/RealMySQL8.0_1/blob/main/KimJaeHyun/4주차.쿼리_실행_계획.md) 
 
+#### 5주차(2025.05.21 ~ 2025.05.28)
+- **범위** 
+    - 9 옵티마이저와 힌드 
+
+- **세미나**
+    - 장우: 
+    - 민우: 
+    - 현재:  
+    - 재현: 
+
 ## Conventions
 1. 본인이 정리한 부분은 본인의 이름 브랜치에 기록한다.
     - 브랜치는 영어(소문자)로 설정
