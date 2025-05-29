@@ -54,7 +54,7 @@ Deep Dive into Real My SQL 8.0(1)
 - **세미나**
     - 장우: [SQL 쿼리 실행 계획](https://github.com/BackEndDeepDive/RealMySQL8.0_1/tree/choijangwoo/ChoiJangWoo/Ch%205)
     - 민우: 
-    - 현재:  
+    - 현재: [옵티마이저 에러 & 힌트](https://github.com/BackEndDeepDive/RealMySQL8.0_1/blob/main/kimhyeonjae/5주차.%20옵티마이저%20에러%20&%20힌트.md)
     - 재현: [인덱스 스킵 스캔](https://github.com/BackEndDeepDive/RealMySQL8.0_1/blob/main/KimJaeHyun/5주차.인덱스_스킵_스캔.md) 
 
 ## Conventions
