@@ -55,7 +55,7 @@ Deep Dive into Real My SQL 8.0(1)
     - 장우: 
     - 민우: 
     - 현재:  
-    - 재현: 
+    - 재현: [인덱스 스킵 스캔](https://github.com/BackEndDeepDive/RealMySQL8.0_1/blob/main/KimJaeHyun/5주차.인덱스_스킵_스캔.md) 
 
 ## Conventions
 1. 본인이 정리한 부분은 본인의 이름 브랜치에 기록한다.
