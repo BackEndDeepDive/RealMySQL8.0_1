@@ -49,10 +49,10 @@ Deep Dive into Real My SQL 8.0(1)
 
 #### 5주차(2025.05.21 ~ 2025.05.28)
 - **범위** 
-    - 9 옵티마이저와 힌드 
+    - 9 옵티마이저와 힌트 
 
 - **세미나**
-    - 장우: 
+    - 장우: [SQL 쿼리 실행 계획](https://github.com/BackEndDeepDive/RealMySQL8.0_1/tree/choijangwoo/ChoiJangWoo/Ch%205)
     - 민우: 
     - 현재:  
     - 재현: 
