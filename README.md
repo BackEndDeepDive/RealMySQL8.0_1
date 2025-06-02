@@ -57,6 +57,14 @@ Deep Dive into Real My SQL 8.0(1)
     - 현재: [옵티마이저 에러 & 힌트](https://github.com/BackEndDeepDive/RealMySQL8.0_1/blob/main/kimhyeonjae/5주차.%20옵티마이저%20에러%20&%20힌트.md)
     - 재현: [인덱스 스킵 스캔](https://github.com/BackEndDeepDive/RealMySQL8.0_1/blob/main/KimJaeHyun/5주차.인덱스_스킵_스캔.md) 
 
+#### 5주차(2025.05.29 ~ 2025.06.02)
+- **범위** 
+    - 10 실행 계획 
+- **세미나**
+    - 장우:
+    - 민우:
+    - 현재
+
 ## Conventions
 1. 본인이 정리한 부분은 본인의 이름 브랜치에 기록한다.
     - 브랜치는 영어(소문자)로 설정
