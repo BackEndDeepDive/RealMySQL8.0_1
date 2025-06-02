@@ -62,7 +62,7 @@ Deep Dive into Real My SQL 8.0(1)
     - 10 실행 계획 
 - **세미나**
     - 장우: [EXPLAIN 결과 칼럼](https://github.com/BackEndDeepDive/RealMySQL8.0_1/tree/choijangwoo/ChoiJangWoo/Ch%206)
-    - 민우:
+    - 민우: [MySQL 실행 계획 분석](https://github.com/BackEndDeepDive/RealMySQL8.0_1/blob/main/YukMinWoo/week-6/MySQL-%EC%8B%A4%ED%96%89-%EA%B3%84%ED%9A%8D-%EB%B6%84%EC%84%9D.md)
     - 현재: [JOIN vs SUBQUERY](https://github.com/BackEndDeepDive/RealMySQL8.0_1/blob/main/kimhyeonjae/6주차.%20JOIN%20vs%20SUBQUERY.md)
 
 ## Conventions
