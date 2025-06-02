@@ -63,7 +63,7 @@ Deep Dive into Real My SQL 8.0(1)
 - **세미나**
     - 장우: [EXPLAIN 결과 칼럼](https://github.com/BackEndDeepDive/RealMySQL8.0_1/tree/choijangwoo/ChoiJangWoo/Ch%206)
     - 민우:
-    - 현재
+    - 현재: [JOIN vs SUBQUERY](https://github.com/BackEndDeepDive/RealMySQL8.0_1/blob/main/kimhyeonjae/6주차.%20JOIN%20vs%20SUBQUERY.md)
 
 ## Conventions
 1. 본인이 정리한 부분은 본인의 이름 브랜치에 기록한다.
