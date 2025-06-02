@@ -61,7 +61,7 @@ Deep Dive into Real My SQL 8.0(1)
 - **범위** 
     - 10 실행 계획 
 - **세미나**
-    - 장우:
+    - 장우: [EXPLAIN 결과 칼럼](https://github.com/BackEndDeepDive/RealMySQL8.0_1/tree/choijangwoo/ChoiJangWoo/Ch%206)
     - 민우:
     - 현재
 
